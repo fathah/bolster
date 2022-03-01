@@ -1,0 +1,56 @@
+
+.topImgCont{
+    background: url('images/life.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    color: #fff;
+    padding-top: 100px;
+}
+.topImgCont h1{
+    color: #fff;
+}
+
+.gallery-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-between;
+    padding: 0 20px;
+    row-gap: 25px;
+    column-gap: 25px;
+}
+.gallery-grid div img{
+    width: 100%;
+    border-radius:10px;
+   transition: all 0.5s ease;
+   box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.2);
+}
+.gallery-grid div img:hover{
+    transform: scale(1.05);
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.4);
+}
+@media screen and (max-width: 768px){
+    .gallery-grid{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        justify-content: space-between;
+        padding: 0 20px;
+        row-gap: 25px;
+        column-gap: 25px;
+    }
+}
+    
+@media screen and (max-width: 1200px){
+    .gallery-grid{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        justify-content: space-between;
+        padding: 0 20px;
+        row-gap: 25px;
+        column-gap: 25px;
+    }
+}
