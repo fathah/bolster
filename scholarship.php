@@ -18,7 +18,7 @@
 	<meta property="og:type" content="article" />
 
     <!-- Website Title -->
-    <title>Bolster Team</title>
+    <title>Bolster Scholarship</title>
     
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:500,700&display=swap&subset=latin-ext" rel="stylesheet">
@@ -51,7 +51,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1>WHO WE ARE?</h1>
+                    <h1>APPLY FOR SCHOLARSHIP</h1>
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -63,28 +63,10 @@
     <!-- Privacy Content -->
     <div class="ex-basic-2">
         <div class="container">
-  <!-----
-<p>
-<h4>Mujeebu Rahman
-</h4>
-As a keen student of development economics, Mujeebu Rahman is fascinated by the complex apparatus of the development sector in India. He is excited to employ his skills in the development of the marginalized. He is a former William J. Clinton fellow. His graduation from Indian Institute of Technology Gandhinagar has a profound impact on his passion. To supplement his academics, he has interned with International Universities, various non-governmental organizations and civil society movements across India and outside. Presently, he is a Ph.D scholar at Indian Institute of Technology Kanpur.
- 
-</p> ---->
-<p><h4>Jalal Rahman</h4>
-Jalal Rahman has working experience with many organizations engaged in the education and women empowerment. He holds a post graduation degree from APU, Bangalore and he has done slew of internships with reputed organizations. Graduated from an Islamic Madrasa and educated from modern universities, he thinks that there is a need to bridge the traditional and secular learnings. He loves to work for the empowerment of the poor and marginalised sections. As a person exited with start ups and innovative businesses, he thinks marginalised groups could be empowered through providing them with the training entrepreneurial skills and development.
+<center>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfHN15i9v7RO5DxAFY_7lyVk88P2Gj5oECWmUUQ3KHTyaJ8_A/viewform?embedded=true" width="100%" height="2196" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-</p>
-<p><h4>Shahul Hameed</h4>
-Shahul Hameed is passionate about finding resolution to social problems through education. Being a PhD candidate at Jawaharlal Nehru University, he believes that interconnecting students and academicians with the underprivileged would bring revolutionary changes in the society. He also holds a degree in Islamic traditional education. He wishes to work towards the empowerment of minority, women, and downtrodden sections through academics and social works.
-</p>
-<p>
-  <h4>Basim</h4>
-  Basim is a linguist who is interested in Syntax, semantics, Syntax-semantic interface and Arabic linguistics. He is an MPhil pass out from University of Delhi in Linguistic, and Post Graduated from the same university. Earlier, graduated from Madeenathunnoor College of Islamic Science, he proves the best example of bridging traditional and secular learning. He loves to teach and mentor, and he believes that successful students become ideal citizens. </p>
- 
-
- 
-
-  
+</center>  
   
 
         </div> <!-- end of container -->

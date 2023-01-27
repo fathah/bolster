@@ -1,4 +1,7 @@
 <?php
+header('Location: https://docs.google.com/forms/d/e/1FAIpQLSfMo2Q1D8pth-jrB_2kJIhcXOXISFdK9ib87LmzYpoQ9az9xQ/viewform?usp=pp_url ');
+
+
 include 'db.php';
 
 $response = '';
@@ -43,7 +46,8 @@ if(isset($_POST['submit'])){
     $pin = mysqli_real_escape_string($fxConn,  $_POST['pin']);
     $email = mysqli_real_escape_string($fxConn,  $_POST['email']);
     $contact = mysqli_real_escape_string($fxConn,  $_POST['contact']);
-    $stream = mysqli_real_escape_string($fxConn,  $_POST['stream']);
+    $stream = 'Science';
+    $scholarship = mysqli_real_escape_string($fxConn,  $_POST['scholarship']);
 
     $examName = mysqli_real_escape_string($fxConn,  $_POST['examName']);
     $year = mysqli_real_escape_string($fxConn,  $_POST['year']);
@@ -65,7 +69,9 @@ if(isset($_POST['submit'])){
     PIN Code: <b>'.$pin.'</b><br>
     Email Id: <b>'.$email.'</b><br>
     Contact No: <b>'.$contact.'</b><br>
-    Stream Preference: <b>'.$stream.'</b><br>
+    Stream: <b>'.$stream.'</b><br>
+    Scholarship: <b>'.$scholarship.'</b>
+    
     <br> 
     <h3>Details of Qualifying Examination </h3>
     Name of Examination:  <b>'.$examName.'</b><br>
@@ -79,10 +85,10 @@ if(isset($_POST['submit'])){
     $sql = "
     INSERT INTO admission(fullname, dob,  guardian,  motherTongue, 
     languages, state, district, house, village, pin, 
-    email, contact, stream, examName , year, mark, board)
+    email, contact, stream, scholarship, examName, year, mark, board)
     VALUES('$fullname', '$dob',  '$guardian',  '$motherTongue', 
     '$languages', '$state', '$district', '$house', '$village', '$pin', 
-    '$email', '$contact', '$stream', '$examName' , '$year', '$mark', '$board')
+    '$email', '$contact', '$stream', '$scholarship', '$examName' , '$year', '$mark', '$board')
     ";
     if(mysqli_query($fxConn, $sql))
     {
@@ -246,13 +252,11 @@ $response; ?>
   </div>
   
   <div class="mb-3">
-
-  <select class="stream" name="stream" required>
-  <option selected>Stream Preference </option>
-  <option value="Science">Science</option>
-  <option value="Commerce">Commerce</option>
-  <option value="Humanities">Humanities</option>
-  <option value="Not Decided">Not Decided</option>
+Do you wish to apply for Bolster Foundation scholarship?
+  <select class="stream" name="scholarship" required>
+  <option selected> Scholarship </option>
+  <option value="Yes">Yes</option>
+  <option value="No">No</option>
 </select>
 </div>
 <br> 

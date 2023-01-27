@@ -11,9 +11,9 @@ Database Configuration File
 
 
 define('FXSERVER', 'localhost');
-define('FXUSER', 'root');
-define('FXPASSWORD', '');
-define('FXDB', 'bolster');
+define('FXUSER', 'u753608608_bolster');
+define('FXPASSWORD', 'Bolster@313');
+define('FXDB', 'u753608608_bolster');
 
 // Create connection
 $fxConn = mysqli_connect(FXSERVER, FXUSER, FXPASSWORD, FXDB);

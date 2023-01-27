@@ -1,0 +1,11 @@
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+
+RewriteRule ^.*-itm-(\d+)/.+.htm$ revslidere/index\.php?id=$1&%{QUERY_STRING} [L]
+RewriteRule ^catalog-.+-(\d+).htm$ revslidere/index\.php?cat=$1&%{QUERY_STRING} [L]
+RewriteRule ^.*(site[a-z]+map.*\.xml)$  website/$1 [L]
+RewriteRule ^.*(sitemap\.xml)$  website/$1 [L]
+RewriteRule ^(.*)$ $1.php
