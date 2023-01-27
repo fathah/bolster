@@ -40,8 +40,7 @@
                         <a class="dropdown-item" href="who.php"><span class="item-text">WHO WE ARE?</span></a>
                         <div class="dropdown-items-divide-hr"></div>
                         <a class="dropdown-item" href="what.php"><span class="item-text">WHAT WE OFFER?</span></a>
-                    <div class="dropdown-items-divide-hr"></div>
-                        <a class="dropdown-item" href="bolster-foundation.php"><span class="item-text">BOLSTER FOUNDATION</span></a>
+                   
                     </div>
                 </li>
                 <li class="nav-item">
@@ -56,14 +55,13 @@
                 <li class="nav-item">
                     <a class="nav-link page-scroll" href="what.php">PROGRAMS</a>
                 </li>
+               
+               
+                <li class="nav-item">
+                    <a class="nav-link page-scroll" href="bolster-foundation.php">BOLSTER FOUNDATION</a>
+                </li>
                 <li class="nav-item">
                     <a class="nav-link page-scroll" href="contact.php">CONTACT</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="gallery.php">GALLERY</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link page-scroll" href="contact">DONATION</a>
                 </li>
                 <li class="nav-item apply" >
                     <a class="nav-link page-scroll" href="apply.php">APPLY</a>

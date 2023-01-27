@@ -28,7 +28,6 @@ include'header.php';
                     <div class="col-lg-12">
                         <div class="text-container">
                             <h2 style="color: #fff;"> <span id="js-rotatingL">It is Our Promise; <br> You Will Do What You Love</span></h2>
-                            <p class="p-heading p-large">Bolster Girls Campus is one of the best campuses in South India with ultimate futuristic goals.</p>
                             <a class="btn-solid-lg page-scroll" href="apply.php">APPLY</a>
                         </div>
                     </div> <!-- end of col -->
@@ -123,41 +122,10 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
             
             <!-- Accordion -->
             <div class="accordion-container" id="accordionOne">
-                <h2>Higher Secondary education offered at Bolster</h2>
-                <div class="item">
-                    <div id="headingOne">
-                        <span data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" role="button">
-                            <span class="circle-numbering">1</span><span class="accordion-title">Higher Secondary in Science</span>
-                        </span>
-                    </div>
-                    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionOne">
-                        <div class="accordion-body">
-                        The Bolster buck the trend of treating schooling as to maximise scores in board examinations and celebrating victory. Admittedly, our curriculum produces top scorers. The Bolster system moves a step further by orienting teachings to inoculate the spirit for winning a higher career in life. Bolster science students have a plethora of options from which they choose the most appropriate and the passionate.                         </div>
-                    </div>
-                </div> <!-- end of item -->
-            
-                <div class="item">
-                    <div id="headingTwo">
-                        <span class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" role="button">
-                            <span class="circle-numbering">2</span><span class="accordion-title">Higher Secondary in Commerce</span>
-                        </span>
-                    </div>
-                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionOne">
-                        <div class="accordion-body">
-                        Students who have more affinity for numbers and interested in economics and accounting are strongly advised to opt for commerce in their higher secondary level. Due to wider popularity for the subject, commerce students face slew of difficulties in finding respectful professions after the course.                         </div>
-                    </div>
-                </div> <!-- end of item -->
-            
-                <div class="item">
-                    <div id="headingThree">
-                        <span class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" role="button">
-                            <span class="circle-numbering">3</span><span class="accordion-title">Higher Secondary in Humanities</span>
-                        </span>
-                    </div>
-                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionOne">
-                        <div class="accordion-body">
-                        A well-rounded education desperately needs an exposure to science and humanities which complement it to produce a civilised society. Humanities courses help you understand, appreciate and criticise the practices that rule our social system and suggest a better model bereft of discrimination.                        </div>
-                    </div>
+                <h2>Higher Secondary in Science at Bolster</h2>
+                <div>
+                The Bolster buck the trend of treating schooling as to maximise scores in board examinations and celebrating victory. Admittedly, our curriculum produces top scorers. The Bolster system moves a step further by orienting teachings to inoculate the spirit for winning a higher career in life. 
+                Bolster science students have a plethora of options from which they choose the most appropriate and the passionate.
                 </div> <!-- end of item -->
             </div> <!-- end of accordion-container -->
             <!-- end of accordion -->
