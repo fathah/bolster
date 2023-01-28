@@ -149,12 +149,17 @@ From dawn to twilight in Bolster Campus, students, faculties and staff live happ
     transition: 0.5s ease;
 }
 .resItem:hover{
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    scale: 1.1;
+}
+.resItem:hover .lifeItem{
+    border-radius: 40%;
+
+    scale: 1.1;
 }
 
 .lifeItem{
-    border-radius: 50%;
+    border-radius: 20%;
     margin-bottom: 5px;
 }
 

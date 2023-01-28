@@ -41,7 +41,7 @@ include'header.php';
     <!-- Intro -->
     <div id="intro" class="basic-1">
         <div class="container">
-            <div class="row">
+            <div class="row align-items-center">
                 <div class="col-lg-5">
                     <div class="text-container">
                         <div class="section-title">INTRO</div>
@@ -53,7 +53,13 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
                 </div> <!-- end of col -->
                 <div class="col-lg-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/intro-office.png" alt="alternative">
+                        
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ywaGkzfjUKA" 
+                        class="rounded-lg"
+                        title="YouTube video player" frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen></iframe>
+
                     </div> <!-- end of image-container -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->

@@ -58,7 +58,7 @@
                
                
                 <li class="nav-item">
-                    <a class="nav-link page-scroll" href="bolster-foundation.php">BOLSTER FOUNDATION</a>
+                    <a class="nav-link page-scroll" href="https://www.bolsterfoundation.in">BOLSTER FOUNDATION</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link page-scroll" href="contact.php">CONTACT</a>

@@ -97,7 +97,7 @@ Bolster offers academic courses specially designed to help you lead to your dest
         padding-left: 30px;
     }
     .img{
-        width:300px;
+        width:400px;
         height: 300px;
         margin-bottom: 10px;
         border-radius: 10px;
@@ -201,69 +201,9 @@ Bolster provides regressive coaching for known entrance examinations in the fiel
 </p>
 </div>
 </div>
+
 <br>
-<h3 style="color: #14BF98;">Higher Secondary in Commerce</h3>
 
-<div class="sec">
-
-<div class="img flex2">
-    <div class="img commerce bgStyle"></div>
-</div>
-<div>
-<p>
-Students who have more affinity for numbers and interested in economics and accounting are strongly advised to opt for commerce in their higher secondary level. Due to wider popularity for the subject, commerce students face slew of difficulties in finding respectful professions after the course. <br>
-Bolster realises the newly opened possibilities of commerce discipline that help aspirants plan a respected career option in a better way. Bolster system offers foundational courses on CA, CMA and CS, and training for Integrated MBA, ACCA and CPA along with the regular classes.
-
-
-<div class="features">
-    <div class="ftItem">
-        <img src="images/icons/programs/ca.png" alt="">
-        Foundation for CA/CMA
-    </div>
-    <div class="ftItem">
-        <img src="images/icons/programs/professional.png" alt="">
-        Early Jump to Professional Courses
-    </div>
-    <div class="ftItem">
-        <img src="images/icons/programs/training.png" alt="">
-        Other Entrance Trainings
-    </div>
-</div>
-
-
-</p>
-</div></div>
-<br>
-<h3 style="color: #14BF98;">Higher Secondary in Humanities</h3>
-<div class="sec">
-<div class="img">
-    <div class="img humanities bgStyle"></div>
-</div>
-<div>
-<p>
-
-A well-rounded education desperately needs an exposure to science and humanities which complement it to produce a civilised society. Humanities courses help you understand, appreciate and criticise the practices that rule our social system and suggest a better model bereft of discrimination. <br>
-Bolster refutes the general theory that degrees in social sciences are less marketable as compared to STEM courses. The Bolster system inculcates the skills in students to organize thoughts and to synthesise complex ideas into coherent stories. We have special courses in UPSC Foundation and in University entrance examinations.
-
-
-
-    <div class="features">
-    <div class="ftItem">
-        <img src="images/icons/programs/academic.png" alt="">
-        Academic Skilling 
-    </div>
-    <div class="ftItem">
-        <img src="images/icons/programs/upsc.png" alt="">
-        UPSC Foundation 
-    </div>
-    <div class="ftItem">
-        <img src="images/icons/programs/university.png" alt="">
-        University Entrance Preparation
-    </div>
-</div>
-
-</p>
-</div></div>
 
 
 
