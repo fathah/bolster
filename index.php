@@ -3,6 +3,12 @@
 <?php 
 include'header.php'; 
 ?>
+<style>
+    .rounded-xl{
+        margin-top: 1rem;
+        border-radius: 1rem;
+    }
+</style>
 <body data-spy="scroll" data-target=".fixed-top">
     
     <!-- Preloader -->
@@ -54,8 +60,8 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
                 <div class="col-lg-7">
                     <div class="image-container">
                         
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ywaGkzfjUKA" 
-                        class="rounded-lg"
+                    <iframe width="460" height="355" src="https://www.youtube.com/embed/ywaGkzfjUKA" 
+                        class="rounded-xl"
                         title="YouTube video player" frameborder="0" 
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                         allowfullscreen></iframe>
