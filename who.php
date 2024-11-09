@@ -70,17 +70,19 @@
 As a keen student of development economics, Mujeebu Rahman is fascinated by the complex apparatus of the development sector in India. He is excited to employ his skills in the development of the marginalized. He is a former William J. Clinton fellow. His graduation from Indian Institute of Technology Gandhinagar has a profound impact on his passion. To supplement his academics, he has interned with International Universities, various non-governmental organizations and civil society movements across India and outside. Presently, he is a Ph.D scholar at Indian Institute of Technology Kanpur.
  
 </p> ---->
-<p><h4>Jalal Rahman</h4>
-Jalal Rahman has working experience with many organizations engaged in the education and women empowerment. He holds a post graduation degree from APU, Bangalore and he has done slew of internships with reputed organizations. Graduated from an Islamic Madrasa and educated from modern universities, he thinks that there is a need to bridge the traditional and secular learnings. He loves to work for the empowerment of the poor and marginalised sections. As a person exited with start ups and innovative businesses, he thinks marginalised groups could be empowered through providing them with the training entrepreneurial skills and development.
 
+<p><h4>Dr Shahul Hameed MM </h4>
+An accomplished educationist, Shahul holds a PhD from Jawaharlal Nehru University (JNU) and brings a blend of academic and governmental experience to your work. With a background as an assistant professor at GITAM University, Bangalore, he has a strong foundation in academia, further enriched by his role as a personal assistant to a minister in Kerala, where he gained unique insights into public administration and policy. 
 </p>
-<p><h4>Shahul Hameed</h4>
-Shahul Hameed is passionate about finding resolution to social problems through education. Being a PhD candidate at Jawaharlal Nehru University, he believes that interconnecting students and academicians with the underprivileged would bring revolutionary changes in the society. He also holds a degree in Islamic traditional education. He wishes to work towards the empowerment of minority, women, and downtrodden sections through academics and social works.
+
+
+<p><h4>Dr Mujeebu Rehman KC</h4>
+Mujeeb has a strong background in both academia and the development sector. He holds a PhD from IIT Kanpur, demonstrating his commitment to rigorous research and education. Additionally, as a former fellow with the American India Foundation (AIF), he gained valuable field experience and insights into impactful development initiatives, bridging academic expertise with practical applications to support community-focused projects and initiatives. 
 </p>
+
 <p>
-  <h4>Basim</h4>
-  Basim is a linguist who is interested in Syntax, semantics, Syntax-semantic interface and Arabic linguistics. He is an MPhil pass out from University of Delhi in Linguistic, and Post Graduated from the same university. Earlier, graduated from Madeenathunnoor College of Islamic Science, he proves the best example of bridging traditional and secular learning. He loves to teach and mentor, and he believes that successful students become ideal citizens. </p>
- 
+  <h4>Muhammed Jalaludheen Albakari</h4>
+  Jalal has extensive experience across business, education, and social work, supported by a master’s degree from Azim Premji University (APU). He brings a multifaceted approach to his work, integrating business acumen with educational strategies and a commitment to social welfare. Actively involved in community-focused projects, Jalal leverages his diverse background to drive impactful initiatives that foster growth and development across sectors. 
 
  
 

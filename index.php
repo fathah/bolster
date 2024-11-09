@@ -51,9 +51,9 @@ include'header.php';
                 <div class="col-lg-5">
                     <div class="text-container">
                         <div class="section-title">INTRO</div>
-                        <h2>Residential Schooling for Girls in a Spiritual Ambience</h2>
+                        <h2>A Residential School Bridging Heritage with Higher Learning</h2>
 <p>
-Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundation. BGC offers Higher Secondary schooling in science, commerce and humanities along with regressive coaching for different medical entrance exams, foundation for CA/CMA/CS, foundation course for UPSC, and entrance examination training for different universities and premier institutes. 
+Bolster Girls Campus is a residential school for girls dedicated to providing high-quality education infused with cultural and traditional values. Alongside a rigorous curriculum, Bolster Girls Campus offers specialized coaching for competitive exams such as NEET, JEE, and CUET, and assistance with international university admissions, empowering students to pursue global opportunities. 
 </p>
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
@@ -88,7 +88,7 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
                         </span>
                         <div class="card-body">
                             <h4 class="card-title">Personalised Education Project</h4>
-                            <p>PEP is an educational approach that aims to customize learning for each student’s strengths, interests, needs, and skills. Each student gets a learning plan that’s based on what they know and how they learn best.</p>
+                            <p>Tailored learning initiative designed to address each student's unique strengths, needs, and aspirations, providing customized academic pathways, targeted support, and individual mentorship to maximize personal growth and academic success. </p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -101,7 +101,7 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
                         </span>
                         <div class="card-body">
                             <h4 class="card-title">Academic Competency Assessment </h4>
-                            <p>Bolster Academic Competency Assessment helps to identify your  multidimensional characteristics that factor into your academic success</p>
+                            <p>A structured evaluation tool designed to gauge each student’s strengths and areas for improvement, ensuring targeted academic support that fosters their growth and readiness for advanced learning opportunities. </p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -114,7 +114,7 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
                         </span>
                         <div class="card-body">
                             <h4 class="card-title">Effective Career Solutions </h4>
-                            <p>Bolster Effective Career Solutions is a systematic process through which we use our expertise to guide and facilitate important career-related decisions in your lives</p>
+                            <p>A comprehensive guidance program that equips students with the skills, knowledge, and resources needed to make informed career choices, supporting them in pathways from competitive exams to global higher education opportunities. </p>
                         </div>
                     </div>
                     <!-- end of card -->
@@ -134,10 +134,9 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
             
             <!-- Accordion -->
             <div class="accordion-container" id="accordionOne">
-                <h2>Higher Secondary in Science at Bolster</h2>
+                <h2>Higher Secondary School Program (Science) </h2>
                 <div>
-                The Bolster buck the trend of treating schooling as to maximise scores in board examinations and celebrating victory. Admittedly, our curriculum produces top scorers. The Bolster system moves a step further by orienting teachings to inoculate the spirit for winning a higher career in life. 
-                Bolster science students have a plethora of options from which they choose the most appropriate and the passionate.
+                It provides a comprehensive and in-depth curriculum aimed at building a strong foundation in scientific subjects while fostering critical thinking and analytical skills. This program is specifically designed to prepare students for higher studies, with targeted coaching and resources for excelling in competitive exams like NEET, JEE, and CUET, ensuring they are well-equipped for future academic and career pursuits. 
                 </div> <!-- end of item -->
             </div> <!-- end of accordion-container -->
             <!-- end of accordion -->
@@ -167,8 +166,8 @@ Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundat
                         <div class="section-title">ABOUT</div>
                         <h2>We're Passionate About Delivering the Best</h2>
                         <p>
-                 The Bolster offers Higher Secondary schooling in streams of science, commerce and humanities along with regressive coaching for different medical entrance exams, foundation for CA/CMA, foundation course for UPSC, and entrance examination training for different universities and premier institutes. We do not limit our students to boxes of limited choices. We encourage them to seek opportunities beyond conventions. Our personalised learning approach and effective career solutions help students to understand their passions, skills, and areas of strengths and weaknesses. It is our promise: “You will do what you love to do.”
-                        </p>
+                        Our program reflects our unwavering commitment to providing exceptional quality in every aspect of education and student support at Bolster Girls Campus. Our dedicated team goes above and beyond to ensure that each student receives not only a top-tier academic experience but also the guidance and resources necessary for their personal and professional growth. 
+                    </p>
                         <!-- <ul class="list-unstyled li-space-lg">
                             <li class="media">
                                 <i class="fas fa-square"></i>

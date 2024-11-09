@@ -166,8 +166,8 @@
               <p>
            <h3>About Bolster</h3>
 
-           Bolster Girls Campus (BGC) is a residential program for girls by Bolster Foundation. The project is initiated by four Madrasa educated youngsters, who were bestowed with the opportunity of doing courses in reputed institutions like Indian Institute of Technology Kanpur, Jawaharlal Nehru University, University of Delhi and Azim Premji University. The Bolster offers Higher Secondary schooling in streams of science, commerce and humanities along with regressive coaching for different medical entrance exams, foundation for CA/CMA, foundation course for UPSC, and entrance examination training for different universities and premier institutes. We do not limit our students to boxes of limited choices. We encourage them to seek opportunities beyond conventions. Our personalised learning approach and effective career solutions help students to understand their passions, skills, and areas of strengths and weaknesses. It is our promise: “You will do what you love to do.”
-           </p>
+           Bolster Girls Campus was established by three visionary educators who were initially trained in a modern Madrasa system and later pursued higher education at prestigious institutions such as IIT-Kanpur, JNU, and APU. Their shared passion for empowering young girls, particularly those from marginalized communities, led to the creation of a unique educational institution that blends traditional values with contemporary academic excellence. The school focuses on providing high-quality education to girls, equipping them with the skills necessary to succeed in competitive exams like NEET, JEE, and CUET, while also preparing them for global opportunities. By integrating cultural values into the curriculum, the founders of Bolster Girls Campus ensure that students not only achieve academic success but also develop a strong sense of identity and social responsibility. The institution stands as a beacon of hope, offering girls in India a pathway to education, empowerment, and future leadership.
+        </p>
               </div>
           </div>
 <br>
@@ -180,7 +180,9 @@
 <h3>
 Why Bolster?
 </h3>
-What marks Bolster differently is its rare amalgam of spiritual and secular subjects. Bolster Campus bridges the gap between high quality mentorship and moral guidance to students who aspire for higher studies with moral qualities. Bolster provides higher secondary schooling along with career-oriented training and spiritual mentorship. With its firm foundations cemented by ethical principles, Bolster campus also offers a rigorously designed and constantly reviewed multidisciplinary curriculum of moral subjects including jurisprudence, Hadith, Quranic exegesis, spiritual and character education, etc. with famous scholars graduated from renowned institutions. Bolster Campus equip the students with a rare combination of quality higher secondary education with entrance coaching and ethical studies. Special attention is paid to identify the capabilities of students, develop essential soft skills and strengthen their inherent potentials so as to equip them to pursue success in modern society as women. Every faculty member gives full commitment to broaden their mentees’ horizon, opening the door to the echoless expanse of higher studies. Bolster also offers scholarships to meritorious students based on the Bolster scholarship examinations.
+Choosing Bolster Girls Campus means joining a community deeply committed to empowering young women with an education that balances academic excellence and cultural integrity. Founded by a team of educators with backgrounds from IIT-Kharagpur, JNU, and APU, the school is uniquely positioned to offer a high-caliber education that prepares students for competitive exams like NEET, JEE, and CUET, along with international university admissions. At Bolster, students benefit from a personalized approach to learning through initiatives like the Personalised Education Program and Academic Competency Assessments, designed to align with each student's strengths and goals. Additionally, Bolster fosters a nurturing environment where girls from diverse backgrounds can thrive, building both confidence and a strong sense of identity rooted in tradition. This holistic approach equips students with the skills, support, and opportunities they need to achieve their academic and personal aspirations. 
+
+
 <div class="bullets">
 <ul>
 
@@ -202,7 +204,7 @@ Extensive Library
 
 <div class="resItem">
 <img src="images/icons/about/islamic.png" class="lifeItem" alt="">
-Islamic Atmosphere
+Cultural Atmosphere
 </div>
 
 <div class="resItem">
