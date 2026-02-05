@@ -78,7 +78,7 @@ As a keen student of development economics, Mujeebu Rahman is fascinated by the 
 
             <p>
             <h2>Principal's Message</h2>
-            <img src="/images/principal.png" style="border-radius: 20px;" width="300" alt="" /> <br />
+            <img src="/images/principal.png" style="border-radius: 20px;" width="300" alt="" /> <br /> <br />
             Welcome to <b>Bolster Girls Campus</b>, a place where young minds are nurtured with care, confidence, and
             purpose.
             <br />
@@ -96,12 +96,12 @@ As a keen student of development economics, Mujeebu Rahman is fascinated by the 
             <br />
             I warmly invite you to explore Bolster Girls Campus and join us in our mission to inspire, educate, and
             empower the leaders of tomorrow.
-            <br />
+            <br />br
             <h6>Abdulrahman Cenganakattil </h6>
-            <br />
             <i>Principal</i>
             <br />
             <b>Bolster Girls Campus</b>
+            <a href="mailto:bgc.principal313@gmail.com">bgc.principal313@gmail.com</a>
 
             </p>
 
