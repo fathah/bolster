@@ -96,8 +96,8 @@ As a keen student of development economics, Mujeebu Rahman is fascinated by the 
             <br />
             I warmly invite you to explore Bolster Girls Campus and join us in our mission to inspire, educate, and
             empower the leaders of tomorrow.
-            <br />br
-            <h6>Abdulrahman Cenganakattil </h6>
+            <br /> <br />
+            <p style="font-weight: bold; font-size: 20px;">Abdulrahman Cenganakattil </p>
             <i>Principal</i>
             <br />
             <b>Bolster Girls Campus</b>
